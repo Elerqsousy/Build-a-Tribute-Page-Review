@@ -1,9 +1,9 @@
 # Build a Tribute Page
-## (Review of previous work)
+### (Review of previous work)
 
-> One paragraph statement about the project.
+> This page is a presenting sone informaton about Percy Lavon Julian; an American research chemist and a pioneer in the chemical synthesis of medicinal drugs from plants.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./Screenshot.png)
 
 
 ## Built With
@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://elerqsousy.github.io/Build-a-Tribute-Page-Review/)
 
 ## Authors
 
